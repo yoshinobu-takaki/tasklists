@@ -3,6 +3,7 @@
 
 
 @section('content')
+
     <h1>ID:{{$task->id}}のタスク編集画面</h1>
     
     <div class="row">
