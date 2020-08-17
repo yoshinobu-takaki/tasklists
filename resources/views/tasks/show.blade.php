@@ -12,7 +12,7 @@
             <td>{{$task->id}}</td>
         </tr>
         
-        tr>
+        <tr>
             <th>状態</th>
             <td>{{$task->status}}</td>
         </tr>
